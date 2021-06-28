@@ -9,6 +9,8 @@
  
  https://github.com/derekcarey/Covid-19_Vaccine_Tweet_Annotation_BERT/blob/main/Covid_Vaccine_Tweet_Corpus.xlsx
  
- The code used for this project is available at:
+ The code used for this project is available at the link below. Code was written in Google colab with the goal of allowing others to review and execute model training and evaluation themselves. 
+ 
+ https://github.com/derekcarey/Covid-19_Vaccine_Tweet_Annotation_BERT/blob/main/Covid_19_Vaccine_Tweet_Annotation_BERT.ipynb
  
  
